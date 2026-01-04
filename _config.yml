@@ -23,7 +23,9 @@ resume_contact_address:         "322 Rigg Street, Santa Cruz"
 resume_header_contact_info:     "322 Rigg St • 424-365-2605 • ninchave@ucsc.edu"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am a fifth year STEM student at University of California Santa Cruz (UCSC) looking for a position in engineering or sciences involving research or assistance in the development of a solution to society's environmental issues.</p>"
+
+# This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,13 +48,7 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/nicolas-chavez-961a6a289/"
 resume_print_social_links:      true
 
 # Design settings
